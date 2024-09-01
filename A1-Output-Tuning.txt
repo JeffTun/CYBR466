@@ -1,0 +1,54 @@
+    1  Malware-Analysis:~/Desktop$ ^C
+    2  Malware-Analysis:~/Desktop$ ^C
+    3  ls
+    4  cd ..
+    5  ls
+    6  date
+    7  cal
+    8  w
+    9  finger user
+   10  ls
+   11  date
+   12  cal
+   13  w
+   14  free
+   15  top
+   16  whois domain 8.8.8.8
+   17  whoami
+   18  uname -a
+   19  du
+   20  whoami
+   21  uname -a
+   22  cd Desktop/
+   23  mkdir test
+   24  ls
+   25  cd test/
+   26  touch testfile
+   27  ls
+   28  rm testfile 
+   29  ls
+   30  cd ..
+   31  rm -r test/
+   32  ls
+   33  ls -al
+   34  df
+   35  git --v
+   36  git --version
+   37  clear
+   38  ls
+   39  ls -al
+   40  w
+   41  whoami
+   42  df
+   43  uptime
+   44  du
+   45  touch testfile
+   46  rm testfile 
+   47  free
+   48  cal
+   49  date
+   50  cd Desktop/
+   51  cd ..
+   52  pwd
+   53  history > ~/Desktop/ToPushFolder/
+   54  history > ~/Desktop/ToPushFolder/A1-Output-Tuning.txt
